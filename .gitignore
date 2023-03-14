@@ -18,10 +18,11 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.eslintrc.js
+.eslintrc.json
 .prettierrc.js
-.package-lock.json
-tsconfig.js
+package-lock.json
+tsconfig.json
+.gitignore
 
 
 npm-debug.log*
